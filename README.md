@@ -1,2 +1,1 @@
 # test-fedora-dev
-testing
